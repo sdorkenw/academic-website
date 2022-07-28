@@ -15,19 +15,21 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/sdorkenw
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=sGHphbYAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sdorkenw
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/sven-dorkenwald-7a4381b9/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Princeton University
+    url: https://www.princeton.edu/
+  - name: Google Research
+    url: https://research.google/
 education:
   courses:
     - course: PhD in Artificial Intelligence
