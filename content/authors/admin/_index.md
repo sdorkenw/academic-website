@@ -6,9 +6,9 @@ avatar_filename: https://avatars.githubusercontent.com/u/9481250?v=4
 bio: I am working on systems and machine learning methods for analyzing
   Connectomics datasets.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Connectomics
+  - Machine Learning
+  - Data Science
 social:
   - icon: envelope
     icon_pack: fas
@@ -31,7 +31,16 @@ organizations:
   - name: Google Research
     url: https://research.google/
 education:
-  courses: []
+  courses:
+    - course: Master of Arts in Computer Science
+      institution: Princeton University
+      year: 2020
+    - course: Master of Science in Computer Engineering
+      institution: Ruprecht Karl University of Heidelberg
+      year: 2017
+    - course: Bachelor of Science in Physics
+      institution: Ruprecht Karl University of Heidelberg
+      year: 2014
 email: ""
 superuser: true
 highlight_name: true
