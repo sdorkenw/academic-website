@@ -1,6 +1,6 @@
 ---
 widget: education
-widget_id: my-widget-123
+widget_id: education
 headless: true
 weight: 10
 title: Education
