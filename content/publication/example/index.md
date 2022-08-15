@@ -74,7 +74,7 @@ publication: In *Nature Methods*
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *NatMet*
+publication_short: In *Nature Methods*
 url_source: ""
 url_video: ""
 title: "FlyWire: online community for whole-brain connectomics"
