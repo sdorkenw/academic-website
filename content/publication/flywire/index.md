@@ -87,7 +87,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: flywire_fig2.jpg
+  filename: featured.jpg
 date: 2022-08-15T03:46:02.555Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
