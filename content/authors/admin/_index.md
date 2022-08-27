@@ -1,9 +1,9 @@
 ---
 title: Sven Dorkenwald
-role: Graduate Student at Princeton University\nStudent Researcher at Google
+role: Graduate Student at Princeton University & Student Researcher at Google
   Reseaerch
 avatar_filename: 9481250.jpeg
-bio: I am working on systems and machine learning methods for analyzing
+bio: I am working on scalable systems and machine learning methods for analyzing
   Connectomics datasets.
 interests:
   - Connectomics
